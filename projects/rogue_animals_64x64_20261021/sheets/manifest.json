@@ -1,0 +1,6628 @@
+{
+  "sheets": [
+    {
+      "file": "characters_cassowary_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_down_attack_0",
+        "cassowary_down_attack_1",
+        "cassowary_down_attack_2",
+        "cassowary_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_down_hurt_0",
+        "cassowary_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_down_idle_0",
+        "cassowary_down_idle_1",
+        "cassowary_down_idle_2",
+        "cassowary_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_down_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_down_run_0",
+        "cassowary_down_run_1",
+        "cassowary_down_run_2",
+        "cassowary_down_run_3",
+        "cassowary_down_run_4",
+        "cassowary_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_down_walk_0",
+        "cassowary_down_walk_1",
+        "cassowary_down_walk_2",
+        "cassowary_down_walk_3",
+        "cassowary_down_walk_4",
+        "cassowary_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_downleft_attack_0",
+        "cassowary_downleft_attack_1",
+        "cassowary_downleft_attack_2",
+        "cassowary_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_downleft_hurt_0",
+        "cassowary_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_downleft_idle_0",
+        "cassowary_downleft_idle_1",
+        "cassowary_downleft_idle_2",
+        "cassowary_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_downleft_run_0",
+        "cassowary_downleft_run_1",
+        "cassowary_downleft_run_2",
+        "cassowary_downleft_run_3",
+        "cassowary_downleft_run_4",
+        "cassowary_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_downleft_walk_0",
+        "cassowary_downleft_walk_1",
+        "cassowary_downleft_walk_2",
+        "cassowary_downleft_walk_3",
+        "cassowary_downleft_walk_4",
+        "cassowary_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_downright_attack_0",
+        "cassowary_downright_attack_1",
+        "cassowary_downright_attack_2",
+        "cassowary_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_downright_hurt_0",
+        "cassowary_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_downright_idle_0",
+        "cassowary_downright_idle_1",
+        "cassowary_downright_idle_2",
+        "cassowary_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_downright_run_0",
+        "cassowary_downright_run_1",
+        "cassowary_downright_run_2",
+        "cassowary_downright_run_3",
+        "cassowary_downright_run_4",
+        "cassowary_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_downright_walk_0",
+        "cassowary_downright_walk_1",
+        "cassowary_downright_walk_2",
+        "cassowary_downright_walk_3",
+        "cassowary_downright_walk_4",
+        "cassowary_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_left_attack_0",
+        "cassowary_left_attack_1",
+        "cassowary_left_attack_2",
+        "cassowary_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_left_hurt_0",
+        "cassowary_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_left_idle_0",
+        "cassowary_left_idle_1",
+        "cassowary_left_idle_2",
+        "cassowary_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_left_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_left_run_0",
+        "cassowary_left_run_1",
+        "cassowary_left_run_2",
+        "cassowary_left_run_3",
+        "cassowary_left_run_4",
+        "cassowary_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_left_walk_0",
+        "cassowary_left_walk_1",
+        "cassowary_left_walk_2",
+        "cassowary_left_walk_3",
+        "cassowary_left_walk_4",
+        "cassowary_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_right_attack_0",
+        "cassowary_right_attack_1",
+        "cassowary_right_attack_2",
+        "cassowary_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_right_hurt_0",
+        "cassowary_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_right_idle_0",
+        "cassowary_right_idle_1",
+        "cassowary_right_idle_2",
+        "cassowary_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_right_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_right_run_0",
+        "cassowary_right_run_1",
+        "cassowary_right_run_2",
+        "cassowary_right_run_3",
+        "cassowary_right_run_4",
+        "cassowary_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_right_walk_0",
+        "cassowary_right_walk_1",
+        "cassowary_right_walk_2",
+        "cassowary_right_walk_3",
+        "cassowary_right_walk_4",
+        "cassowary_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_up_attack_0",
+        "cassowary_up_attack_1",
+        "cassowary_up_attack_2",
+        "cassowary_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_up_hurt_0",
+        "cassowary_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_up_idle_0",
+        "cassowary_up_idle_1",
+        "cassowary_up_idle_2",
+        "cassowary_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_up_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_up_run_0",
+        "cassowary_up_run_1",
+        "cassowary_up_run_2",
+        "cassowary_up_run_3",
+        "cassowary_up_run_4",
+        "cassowary_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_up_walk_0",
+        "cassowary_up_walk_1",
+        "cassowary_up_walk_2",
+        "cassowary_up_walk_3",
+        "cassowary_up_walk_4",
+        "cassowary_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_upleft_attack_0",
+        "cassowary_upleft_attack_1",
+        "cassowary_upleft_attack_2",
+        "cassowary_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_upleft_hurt_0",
+        "cassowary_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_upleft_idle_0",
+        "cassowary_upleft_idle_1",
+        "cassowary_upleft_idle_2",
+        "cassowary_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_upleft_run_0",
+        "cassowary_upleft_run_1",
+        "cassowary_upleft_run_2",
+        "cassowary_upleft_run_3",
+        "cassowary_upleft_run_4",
+        "cassowary_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_upleft_walk_0",
+        "cassowary_upleft_walk_1",
+        "cassowary_upleft_walk_2",
+        "cassowary_upleft_walk_3",
+        "cassowary_upleft_walk_4",
+        "cassowary_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_upright_attack_0",
+        "cassowary_upright_attack_1",
+        "cassowary_upright_attack_2",
+        "cassowary_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "cassowary_upright_hurt_0",
+        "cassowary_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "cassowary_upright_idle_0",
+        "cassowary_upright_idle_1",
+        "cassowary_upright_idle_2",
+        "cassowary_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_upright_run_0",
+        "cassowary_upright_run_1",
+        "cassowary_upright_run_2",
+        "cassowary_upright_run_3",
+        "cassowary_upright_run_4",
+        "cassowary_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_cassowary_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "cassowary_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "cassowary_upright_walk_0",
+        "cassowary_upright_walk_1",
+        "cassowary_upright_walk_2",
+        "cassowary_upright_walk_3",
+        "cassowary_upright_walk_4",
+        "cassowary_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_down_attack_0",
+        "egg_raptor_down_attack_1",
+        "egg_raptor_down_attack_2",
+        "egg_raptor_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_down_hurt_0",
+        "egg_raptor_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_down_idle_0",
+        "egg_raptor_down_idle_1",
+        "egg_raptor_down_idle_2",
+        "egg_raptor_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_down_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_down_run_0",
+        "egg_raptor_down_run_1",
+        "egg_raptor_down_run_2",
+        "egg_raptor_down_run_3",
+        "egg_raptor_down_run_4",
+        "egg_raptor_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_down_walk_0",
+        "egg_raptor_down_walk_1",
+        "egg_raptor_down_walk_2",
+        "egg_raptor_down_walk_3",
+        "egg_raptor_down_walk_4",
+        "egg_raptor_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_downleft_attack_0",
+        "egg_raptor_downleft_attack_1",
+        "egg_raptor_downleft_attack_2",
+        "egg_raptor_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_downleft_hurt_0",
+        "egg_raptor_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_downleft_idle_0",
+        "egg_raptor_downleft_idle_1",
+        "egg_raptor_downleft_idle_2",
+        "egg_raptor_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_downleft_run_0",
+        "egg_raptor_downleft_run_1",
+        "egg_raptor_downleft_run_2",
+        "egg_raptor_downleft_run_3",
+        "egg_raptor_downleft_run_4",
+        "egg_raptor_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_downleft_walk_0",
+        "egg_raptor_downleft_walk_1",
+        "egg_raptor_downleft_walk_2",
+        "egg_raptor_downleft_walk_3",
+        "egg_raptor_downleft_walk_4",
+        "egg_raptor_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_downright_attack_0",
+        "egg_raptor_downright_attack_1",
+        "egg_raptor_downright_attack_2",
+        "egg_raptor_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_downright_hurt_0",
+        "egg_raptor_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_downright_idle_0",
+        "egg_raptor_downright_idle_1",
+        "egg_raptor_downright_idle_2",
+        "egg_raptor_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_downright_run_0",
+        "egg_raptor_downright_run_1",
+        "egg_raptor_downright_run_2",
+        "egg_raptor_downright_run_3",
+        "egg_raptor_downright_run_4",
+        "egg_raptor_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_downright_walk_0",
+        "egg_raptor_downright_walk_1",
+        "egg_raptor_downright_walk_2",
+        "egg_raptor_downright_walk_3",
+        "egg_raptor_downright_walk_4",
+        "egg_raptor_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_left_attack_0",
+        "egg_raptor_left_attack_1",
+        "egg_raptor_left_attack_2",
+        "egg_raptor_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_left_hurt_0",
+        "egg_raptor_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_left_idle_0",
+        "egg_raptor_left_idle_1",
+        "egg_raptor_left_idle_2",
+        "egg_raptor_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_left_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_left_run_0",
+        "egg_raptor_left_run_1",
+        "egg_raptor_left_run_2",
+        "egg_raptor_left_run_3",
+        "egg_raptor_left_run_4",
+        "egg_raptor_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_left_walk_0",
+        "egg_raptor_left_walk_1",
+        "egg_raptor_left_walk_2",
+        "egg_raptor_left_walk_3",
+        "egg_raptor_left_walk_4",
+        "egg_raptor_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_right_attack_0",
+        "egg_raptor_right_attack_1",
+        "egg_raptor_right_attack_2",
+        "egg_raptor_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_right_hurt_0",
+        "egg_raptor_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_right_idle_0",
+        "egg_raptor_right_idle_1",
+        "egg_raptor_right_idle_2",
+        "egg_raptor_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_right_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_right_run_0",
+        "egg_raptor_right_run_1",
+        "egg_raptor_right_run_2",
+        "egg_raptor_right_run_3",
+        "egg_raptor_right_run_4",
+        "egg_raptor_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_right_walk_0",
+        "egg_raptor_right_walk_1",
+        "egg_raptor_right_walk_2",
+        "egg_raptor_right_walk_3",
+        "egg_raptor_right_walk_4",
+        "egg_raptor_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_up_attack_0",
+        "egg_raptor_up_attack_1",
+        "egg_raptor_up_attack_2",
+        "egg_raptor_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_up_hurt_0",
+        "egg_raptor_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_up_idle_0",
+        "egg_raptor_up_idle_1",
+        "egg_raptor_up_idle_2",
+        "egg_raptor_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_up_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_up_run_0",
+        "egg_raptor_up_run_1",
+        "egg_raptor_up_run_2",
+        "egg_raptor_up_run_3",
+        "egg_raptor_up_run_4",
+        "egg_raptor_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_up_walk_0",
+        "egg_raptor_up_walk_1",
+        "egg_raptor_up_walk_2",
+        "egg_raptor_up_walk_3",
+        "egg_raptor_up_walk_4",
+        "egg_raptor_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_upleft_attack_0",
+        "egg_raptor_upleft_attack_1",
+        "egg_raptor_upleft_attack_2",
+        "egg_raptor_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_upleft_hurt_0",
+        "egg_raptor_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_upleft_idle_0",
+        "egg_raptor_upleft_idle_1",
+        "egg_raptor_upleft_idle_2",
+        "egg_raptor_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_upleft_run_0",
+        "egg_raptor_upleft_run_1",
+        "egg_raptor_upleft_run_2",
+        "egg_raptor_upleft_run_3",
+        "egg_raptor_upleft_run_4",
+        "egg_raptor_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_upleft_walk_0",
+        "egg_raptor_upleft_walk_1",
+        "egg_raptor_upleft_walk_2",
+        "egg_raptor_upleft_walk_3",
+        "egg_raptor_upleft_walk_4",
+        "egg_raptor_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_upright_attack_0",
+        "egg_raptor_upright_attack_1",
+        "egg_raptor_upright_attack_2",
+        "egg_raptor_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "egg_raptor_upright_hurt_0",
+        "egg_raptor_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "egg_raptor_upright_idle_0",
+        "egg_raptor_upright_idle_1",
+        "egg_raptor_upright_idle_2",
+        "egg_raptor_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_upright_run_0",
+        "egg_raptor_upright_run_1",
+        "egg_raptor_upright_run_2",
+        "egg_raptor_upright_run_3",
+        "egg_raptor_upright_run_4",
+        "egg_raptor_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_egg_raptor_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "egg_raptor_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "egg_raptor_upright_walk_0",
+        "egg_raptor_upright_walk_1",
+        "egg_raptor_upright_walk_2",
+        "egg_raptor_upright_walk_3",
+        "egg_raptor_upright_walk_4",
+        "egg_raptor_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_down_attack_0",
+        "false_cat_down_attack_1",
+        "false_cat_down_attack_2",
+        "false_cat_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_down_hurt_0",
+        "false_cat_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_down_idle_0",
+        "false_cat_down_idle_1",
+        "false_cat_down_idle_2",
+        "false_cat_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_down_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_down_run_0",
+        "false_cat_down_run_1",
+        "false_cat_down_run_2",
+        "false_cat_down_run_3",
+        "false_cat_down_run_4",
+        "false_cat_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_down_walk_0",
+        "false_cat_down_walk_1",
+        "false_cat_down_walk_2",
+        "false_cat_down_walk_3",
+        "false_cat_down_walk_4",
+        "false_cat_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_downleft_attack_0",
+        "false_cat_downleft_attack_1",
+        "false_cat_downleft_attack_2",
+        "false_cat_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_downleft_hurt_0",
+        "false_cat_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_downleft_idle_0",
+        "false_cat_downleft_idle_1",
+        "false_cat_downleft_idle_2",
+        "false_cat_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_downleft_run_0",
+        "false_cat_downleft_run_1",
+        "false_cat_downleft_run_2",
+        "false_cat_downleft_run_3",
+        "false_cat_downleft_run_4",
+        "false_cat_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_downleft_walk_0",
+        "false_cat_downleft_walk_1",
+        "false_cat_downleft_walk_2",
+        "false_cat_downleft_walk_3",
+        "false_cat_downleft_walk_4",
+        "false_cat_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_downright_attack_0",
+        "false_cat_downright_attack_1",
+        "false_cat_downright_attack_2",
+        "false_cat_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_downright_hurt_0",
+        "false_cat_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_downright_idle_0",
+        "false_cat_downright_idle_1",
+        "false_cat_downright_idle_2",
+        "false_cat_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_downright_run_0",
+        "false_cat_downright_run_1",
+        "false_cat_downright_run_2",
+        "false_cat_downright_run_3",
+        "false_cat_downright_run_4",
+        "false_cat_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_downright_walk_0",
+        "false_cat_downright_walk_1",
+        "false_cat_downright_walk_2",
+        "false_cat_downright_walk_3",
+        "false_cat_downright_walk_4",
+        "false_cat_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_left_attack_0",
+        "false_cat_left_attack_1",
+        "false_cat_left_attack_2",
+        "false_cat_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_left_hurt_0",
+        "false_cat_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_left_idle_0",
+        "false_cat_left_idle_1",
+        "false_cat_left_idle_2",
+        "false_cat_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_left_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_left_run_0",
+        "false_cat_left_run_1",
+        "false_cat_left_run_2",
+        "false_cat_left_run_3",
+        "false_cat_left_run_4",
+        "false_cat_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_left_walk_0",
+        "false_cat_left_walk_1",
+        "false_cat_left_walk_2",
+        "false_cat_left_walk_3",
+        "false_cat_left_walk_4",
+        "false_cat_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_right_attack_0",
+        "false_cat_right_attack_1",
+        "false_cat_right_attack_2",
+        "false_cat_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_right_hurt_0",
+        "false_cat_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_right_idle_0",
+        "false_cat_right_idle_1",
+        "false_cat_right_idle_2",
+        "false_cat_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_right_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_right_run_0",
+        "false_cat_right_run_1",
+        "false_cat_right_run_2",
+        "false_cat_right_run_3",
+        "false_cat_right_run_4",
+        "false_cat_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_right_walk_0",
+        "false_cat_right_walk_1",
+        "false_cat_right_walk_2",
+        "false_cat_right_walk_3",
+        "false_cat_right_walk_4",
+        "false_cat_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_up_attack_0",
+        "false_cat_up_attack_1",
+        "false_cat_up_attack_2",
+        "false_cat_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_up_hurt_0",
+        "false_cat_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_up_idle_0",
+        "false_cat_up_idle_1",
+        "false_cat_up_idle_2",
+        "false_cat_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_up_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_up_run_0",
+        "false_cat_up_run_1",
+        "false_cat_up_run_2",
+        "false_cat_up_run_3",
+        "false_cat_up_run_4",
+        "false_cat_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_up_walk_0",
+        "false_cat_up_walk_1",
+        "false_cat_up_walk_2",
+        "false_cat_up_walk_3",
+        "false_cat_up_walk_4",
+        "false_cat_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_upleft_attack_0",
+        "false_cat_upleft_attack_1",
+        "false_cat_upleft_attack_2",
+        "false_cat_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_upleft_hurt_0",
+        "false_cat_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_upleft_idle_0",
+        "false_cat_upleft_idle_1",
+        "false_cat_upleft_idle_2",
+        "false_cat_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_upleft_run_0",
+        "false_cat_upleft_run_1",
+        "false_cat_upleft_run_2",
+        "false_cat_upleft_run_3",
+        "false_cat_upleft_run_4",
+        "false_cat_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_upleft_walk_0",
+        "false_cat_upleft_walk_1",
+        "false_cat_upleft_walk_2",
+        "false_cat_upleft_walk_3",
+        "false_cat_upleft_walk_4",
+        "false_cat_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_upright_attack_0",
+        "false_cat_upright_attack_1",
+        "false_cat_upright_attack_2",
+        "false_cat_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "false_cat_upright_hurt_0",
+        "false_cat_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "false_cat_upright_idle_0",
+        "false_cat_upright_idle_1",
+        "false_cat_upright_idle_2",
+        "false_cat_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_upright_run_0",
+        "false_cat_upright_run_1",
+        "false_cat_upright_run_2",
+        "false_cat_upright_run_3",
+        "false_cat_upright_run_4",
+        "false_cat_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_false_cat_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "false_cat_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "false_cat_upright_walk_0",
+        "false_cat_upright_walk_1",
+        "false_cat_upright_walk_2",
+        "false_cat_upright_walk_3",
+        "false_cat_upright_walk_4",
+        "false_cat_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_down_attack_0",
+        "feather_raptor_down_attack_1",
+        "feather_raptor_down_attack_2",
+        "feather_raptor_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_down_hurt_0",
+        "feather_raptor_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_down_idle_0",
+        "feather_raptor_down_idle_1",
+        "feather_raptor_down_idle_2",
+        "feather_raptor_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_down_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_down_run_0",
+        "feather_raptor_down_run_1",
+        "feather_raptor_down_run_2",
+        "feather_raptor_down_run_3",
+        "feather_raptor_down_run_4",
+        "feather_raptor_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_down_walk_0",
+        "feather_raptor_down_walk_1",
+        "feather_raptor_down_walk_2",
+        "feather_raptor_down_walk_3",
+        "feather_raptor_down_walk_4",
+        "feather_raptor_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_downleft_attack_0",
+        "feather_raptor_downleft_attack_1",
+        "feather_raptor_downleft_attack_2",
+        "feather_raptor_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_downleft_hurt_0",
+        "feather_raptor_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_downleft_idle_0",
+        "feather_raptor_downleft_idle_1",
+        "feather_raptor_downleft_idle_2",
+        "feather_raptor_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_downleft_run_0",
+        "feather_raptor_downleft_run_1",
+        "feather_raptor_downleft_run_2",
+        "feather_raptor_downleft_run_3",
+        "feather_raptor_downleft_run_4",
+        "feather_raptor_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_downleft_walk_0",
+        "feather_raptor_downleft_walk_1",
+        "feather_raptor_downleft_walk_2",
+        "feather_raptor_downleft_walk_3",
+        "feather_raptor_downleft_walk_4",
+        "feather_raptor_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_downright_attack_0",
+        "feather_raptor_downright_attack_1",
+        "feather_raptor_downright_attack_2",
+        "feather_raptor_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_downright_hurt_0",
+        "feather_raptor_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_downright_idle_0",
+        "feather_raptor_downright_idle_1",
+        "feather_raptor_downright_idle_2",
+        "feather_raptor_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_downright_run_0",
+        "feather_raptor_downright_run_1",
+        "feather_raptor_downright_run_2",
+        "feather_raptor_downright_run_3",
+        "feather_raptor_downright_run_4",
+        "feather_raptor_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_downright_walk_0",
+        "feather_raptor_downright_walk_1",
+        "feather_raptor_downright_walk_2",
+        "feather_raptor_downright_walk_3",
+        "feather_raptor_downright_walk_4",
+        "feather_raptor_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_left_attack_0",
+        "feather_raptor_left_attack_1",
+        "feather_raptor_left_attack_2",
+        "feather_raptor_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_left_hurt_0",
+        "feather_raptor_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_left_idle_0",
+        "feather_raptor_left_idle_1",
+        "feather_raptor_left_idle_2",
+        "feather_raptor_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_left_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_left_run_0",
+        "feather_raptor_left_run_1",
+        "feather_raptor_left_run_2",
+        "feather_raptor_left_run_3",
+        "feather_raptor_left_run_4",
+        "feather_raptor_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_left_walk_0",
+        "feather_raptor_left_walk_1",
+        "feather_raptor_left_walk_2",
+        "feather_raptor_left_walk_3",
+        "feather_raptor_left_walk_4",
+        "feather_raptor_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_right_attack_0",
+        "feather_raptor_right_attack_1",
+        "feather_raptor_right_attack_2",
+        "feather_raptor_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_right_hurt_0",
+        "feather_raptor_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_right_idle_0",
+        "feather_raptor_right_idle_1",
+        "feather_raptor_right_idle_2",
+        "feather_raptor_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_right_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_right_run_0",
+        "feather_raptor_right_run_1",
+        "feather_raptor_right_run_2",
+        "feather_raptor_right_run_3",
+        "feather_raptor_right_run_4",
+        "feather_raptor_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_right_walk_0",
+        "feather_raptor_right_walk_1",
+        "feather_raptor_right_walk_2",
+        "feather_raptor_right_walk_3",
+        "feather_raptor_right_walk_4",
+        "feather_raptor_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_up_attack_0",
+        "feather_raptor_up_attack_1",
+        "feather_raptor_up_attack_2",
+        "feather_raptor_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_up_hurt_0",
+        "feather_raptor_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_up_idle_0",
+        "feather_raptor_up_idle_1",
+        "feather_raptor_up_idle_2",
+        "feather_raptor_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_up_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_up_run_0",
+        "feather_raptor_up_run_1",
+        "feather_raptor_up_run_2",
+        "feather_raptor_up_run_3",
+        "feather_raptor_up_run_4",
+        "feather_raptor_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_up_walk_0",
+        "feather_raptor_up_walk_1",
+        "feather_raptor_up_walk_2",
+        "feather_raptor_up_walk_3",
+        "feather_raptor_up_walk_4",
+        "feather_raptor_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_upleft_attack_0",
+        "feather_raptor_upleft_attack_1",
+        "feather_raptor_upleft_attack_2",
+        "feather_raptor_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_upleft_hurt_0",
+        "feather_raptor_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_upleft_idle_0",
+        "feather_raptor_upleft_idle_1",
+        "feather_raptor_upleft_idle_2",
+        "feather_raptor_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_upleft_run_0",
+        "feather_raptor_upleft_run_1",
+        "feather_raptor_upleft_run_2",
+        "feather_raptor_upleft_run_3",
+        "feather_raptor_upleft_run_4",
+        "feather_raptor_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_upleft_walk_0",
+        "feather_raptor_upleft_walk_1",
+        "feather_raptor_upleft_walk_2",
+        "feather_raptor_upleft_walk_3",
+        "feather_raptor_upleft_walk_4",
+        "feather_raptor_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_upright_attack_0",
+        "feather_raptor_upright_attack_1",
+        "feather_raptor_upright_attack_2",
+        "feather_raptor_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "feather_raptor_upright_hurt_0",
+        "feather_raptor_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "feather_raptor_upright_idle_0",
+        "feather_raptor_upright_idle_1",
+        "feather_raptor_upright_idle_2",
+        "feather_raptor_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_upright_run_0",
+        "feather_raptor_upright_run_1",
+        "feather_raptor_upright_run_2",
+        "feather_raptor_upright_run_3",
+        "feather_raptor_upright_run_4",
+        "feather_raptor_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_feather_raptor_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "feather_raptor_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "feather_raptor_upright_walk_0",
+        "feather_raptor_upright_walk_1",
+        "feather_raptor_upright_walk_2",
+        "feather_raptor_upright_walk_3",
+        "feather_raptor_upright_walk_4",
+        "feather_raptor_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_down_attack_0",
+        "lion_boss_down_attack_1",
+        "lion_boss_down_attack_2",
+        "lion_boss_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_down_hurt_0",
+        "lion_boss_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_down_idle_0",
+        "lion_boss_down_idle_1",
+        "lion_boss_down_idle_2",
+        "lion_boss_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_down_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_down_run_0",
+        "lion_boss_down_run_1",
+        "lion_boss_down_run_2",
+        "lion_boss_down_run_3",
+        "lion_boss_down_run_4",
+        "lion_boss_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_down_walk_0",
+        "lion_boss_down_walk_1",
+        "lion_boss_down_walk_2",
+        "lion_boss_down_walk_3",
+        "lion_boss_down_walk_4",
+        "lion_boss_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_downleft_attack_0",
+        "lion_boss_downleft_attack_1",
+        "lion_boss_downleft_attack_2",
+        "lion_boss_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_downleft_hurt_0",
+        "lion_boss_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_downleft_idle_0",
+        "lion_boss_downleft_idle_1",
+        "lion_boss_downleft_idle_2",
+        "lion_boss_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_downleft_run_0",
+        "lion_boss_downleft_run_1",
+        "lion_boss_downleft_run_2",
+        "lion_boss_downleft_run_3",
+        "lion_boss_downleft_run_4",
+        "lion_boss_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_downleft_walk_0",
+        "lion_boss_downleft_walk_1",
+        "lion_boss_downleft_walk_2",
+        "lion_boss_downleft_walk_3",
+        "lion_boss_downleft_walk_4",
+        "lion_boss_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_downright_attack_0",
+        "lion_boss_downright_attack_1",
+        "lion_boss_downright_attack_2",
+        "lion_boss_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_downright_hurt_0",
+        "lion_boss_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_downright_idle_0",
+        "lion_boss_downright_idle_1",
+        "lion_boss_downright_idle_2",
+        "lion_boss_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_downright_run_0",
+        "lion_boss_downright_run_1",
+        "lion_boss_downright_run_2",
+        "lion_boss_downright_run_3",
+        "lion_boss_downright_run_4",
+        "lion_boss_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_downright_walk_0",
+        "lion_boss_downright_walk_1",
+        "lion_boss_downright_walk_2",
+        "lion_boss_downright_walk_3",
+        "lion_boss_downright_walk_4",
+        "lion_boss_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_left_attack_0",
+        "lion_boss_left_attack_1",
+        "lion_boss_left_attack_2",
+        "lion_boss_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_left_hurt_0",
+        "lion_boss_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_left_idle_0",
+        "lion_boss_left_idle_1",
+        "lion_boss_left_idle_2",
+        "lion_boss_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_left_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_left_run_0",
+        "lion_boss_left_run_1",
+        "lion_boss_left_run_2",
+        "lion_boss_left_run_3",
+        "lion_boss_left_run_4",
+        "lion_boss_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_left_walk_0",
+        "lion_boss_left_walk_1",
+        "lion_boss_left_walk_2",
+        "lion_boss_left_walk_3",
+        "lion_boss_left_walk_4",
+        "lion_boss_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_right_attack_0",
+        "lion_boss_right_attack_1",
+        "lion_boss_right_attack_2",
+        "lion_boss_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_right_hurt_0",
+        "lion_boss_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_right_idle_0",
+        "lion_boss_right_idle_1",
+        "lion_boss_right_idle_2",
+        "lion_boss_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_right_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_right_run_0",
+        "lion_boss_right_run_1",
+        "lion_boss_right_run_2",
+        "lion_boss_right_run_3",
+        "lion_boss_right_run_4",
+        "lion_boss_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_right_walk_0",
+        "lion_boss_right_walk_1",
+        "lion_boss_right_walk_2",
+        "lion_boss_right_walk_3",
+        "lion_boss_right_walk_4",
+        "lion_boss_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_up_attack_0",
+        "lion_boss_up_attack_1",
+        "lion_boss_up_attack_2",
+        "lion_boss_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_up_hurt_0",
+        "lion_boss_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_up_idle_0",
+        "lion_boss_up_idle_1",
+        "lion_boss_up_idle_2",
+        "lion_boss_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_up_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_up_run_0",
+        "lion_boss_up_run_1",
+        "lion_boss_up_run_2",
+        "lion_boss_up_run_3",
+        "lion_boss_up_run_4",
+        "lion_boss_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_up_walk_0",
+        "lion_boss_up_walk_1",
+        "lion_boss_up_walk_2",
+        "lion_boss_up_walk_3",
+        "lion_boss_up_walk_4",
+        "lion_boss_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_upleft_attack_0",
+        "lion_boss_upleft_attack_1",
+        "lion_boss_upleft_attack_2",
+        "lion_boss_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_upleft_hurt_0",
+        "lion_boss_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_upleft_idle_0",
+        "lion_boss_upleft_idle_1",
+        "lion_boss_upleft_idle_2",
+        "lion_boss_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_upleft_run_0",
+        "lion_boss_upleft_run_1",
+        "lion_boss_upleft_run_2",
+        "lion_boss_upleft_run_3",
+        "lion_boss_upleft_run_4",
+        "lion_boss_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_upleft_walk_0",
+        "lion_boss_upleft_walk_1",
+        "lion_boss_upleft_walk_2",
+        "lion_boss_upleft_walk_3",
+        "lion_boss_upleft_walk_4",
+        "lion_boss_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_upright_attack_0",
+        "lion_boss_upright_attack_1",
+        "lion_boss_upright_attack_2",
+        "lion_boss_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "lion_boss_upright_hurt_0",
+        "lion_boss_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "lion_boss_upright_idle_0",
+        "lion_boss_upright_idle_1",
+        "lion_boss_upright_idle_2",
+        "lion_boss_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_upright_run_0",
+        "lion_boss_upright_run_1",
+        "lion_boss_upright_run_2",
+        "lion_boss_upright_run_3",
+        "lion_boss_upright_run_4",
+        "lion_boss_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_lion_boss_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "lion_boss_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "lion_boss_upright_walk_0",
+        "lion_boss_upright_walk_1",
+        "lion_boss_upright_walk_2",
+        "lion_boss_upright_walk_3",
+        "lion_boss_upright_walk_4",
+        "lion_boss_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_down_attack_0",
+        "little_cat_down_attack_1",
+        "little_cat_down_attack_2",
+        "little_cat_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_down_hurt_0",
+        "little_cat_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_down_idle_0",
+        "little_cat_down_idle_1",
+        "little_cat_down_idle_2",
+        "little_cat_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_down_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_down_run_0",
+        "little_cat_down_run_1",
+        "little_cat_down_run_2",
+        "little_cat_down_run_3",
+        "little_cat_down_run_4",
+        "little_cat_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_down_walk_0",
+        "little_cat_down_walk_1",
+        "little_cat_down_walk_2",
+        "little_cat_down_walk_3",
+        "little_cat_down_walk_4",
+        "little_cat_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_downleft_attack_0",
+        "little_cat_downleft_attack_1",
+        "little_cat_downleft_attack_2",
+        "little_cat_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_downleft_hurt_0",
+        "little_cat_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_downleft_idle_0",
+        "little_cat_downleft_idle_1",
+        "little_cat_downleft_idle_2",
+        "little_cat_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_downleft_run_0",
+        "little_cat_downleft_run_1",
+        "little_cat_downleft_run_2",
+        "little_cat_downleft_run_3",
+        "little_cat_downleft_run_4",
+        "little_cat_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_downleft_walk_0",
+        "little_cat_downleft_walk_1",
+        "little_cat_downleft_walk_2",
+        "little_cat_downleft_walk_3",
+        "little_cat_downleft_walk_4",
+        "little_cat_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_downright_attack_0",
+        "little_cat_downright_attack_1",
+        "little_cat_downright_attack_2",
+        "little_cat_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_downright_hurt_0",
+        "little_cat_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_downright_idle_0",
+        "little_cat_downright_idle_1",
+        "little_cat_downright_idle_2",
+        "little_cat_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_downright_run_0",
+        "little_cat_downright_run_1",
+        "little_cat_downright_run_2",
+        "little_cat_downright_run_3",
+        "little_cat_downright_run_4",
+        "little_cat_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_downright_walk_0",
+        "little_cat_downright_walk_1",
+        "little_cat_downright_walk_2",
+        "little_cat_downright_walk_3",
+        "little_cat_downright_walk_4",
+        "little_cat_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_left_attack_0",
+        "little_cat_left_attack_1",
+        "little_cat_left_attack_2",
+        "little_cat_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_left_hurt_0",
+        "little_cat_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_left_idle_0",
+        "little_cat_left_idle_1",
+        "little_cat_left_idle_2",
+        "little_cat_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_left_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_left_run_0",
+        "little_cat_left_run_1",
+        "little_cat_left_run_2",
+        "little_cat_left_run_3",
+        "little_cat_left_run_4",
+        "little_cat_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_left_walk_0",
+        "little_cat_left_walk_1",
+        "little_cat_left_walk_2",
+        "little_cat_left_walk_3",
+        "little_cat_left_walk_4",
+        "little_cat_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_right_attack_0",
+        "little_cat_right_attack_1",
+        "little_cat_right_attack_2",
+        "little_cat_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_right_hurt_0",
+        "little_cat_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_right_idle_0",
+        "little_cat_right_idle_1",
+        "little_cat_right_idle_2",
+        "little_cat_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_right_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_right_run_0",
+        "little_cat_right_run_1",
+        "little_cat_right_run_2",
+        "little_cat_right_run_3",
+        "little_cat_right_run_4",
+        "little_cat_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_right_walk_0",
+        "little_cat_right_walk_1",
+        "little_cat_right_walk_2",
+        "little_cat_right_walk_3",
+        "little_cat_right_walk_4",
+        "little_cat_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_up_attack_0",
+        "little_cat_up_attack_1",
+        "little_cat_up_attack_2",
+        "little_cat_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_up_hurt_0",
+        "little_cat_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_up_idle_0",
+        "little_cat_up_idle_1",
+        "little_cat_up_idle_2",
+        "little_cat_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_up_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_up_run_0",
+        "little_cat_up_run_1",
+        "little_cat_up_run_2",
+        "little_cat_up_run_3",
+        "little_cat_up_run_4",
+        "little_cat_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_up_walk_0",
+        "little_cat_up_walk_1",
+        "little_cat_up_walk_2",
+        "little_cat_up_walk_3",
+        "little_cat_up_walk_4",
+        "little_cat_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_upleft_attack_0",
+        "little_cat_upleft_attack_1",
+        "little_cat_upleft_attack_2",
+        "little_cat_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_upleft_hurt_0",
+        "little_cat_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_upleft_idle_0",
+        "little_cat_upleft_idle_1",
+        "little_cat_upleft_idle_2",
+        "little_cat_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_upleft_run_0",
+        "little_cat_upleft_run_1",
+        "little_cat_upleft_run_2",
+        "little_cat_upleft_run_3",
+        "little_cat_upleft_run_4",
+        "little_cat_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_upleft_walk_0",
+        "little_cat_upleft_walk_1",
+        "little_cat_upleft_walk_2",
+        "little_cat_upleft_walk_3",
+        "little_cat_upleft_walk_4",
+        "little_cat_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_upright_attack_0",
+        "little_cat_upright_attack_1",
+        "little_cat_upright_attack_2",
+        "little_cat_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "little_cat_upright_hurt_0",
+        "little_cat_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "little_cat_upright_idle_0",
+        "little_cat_upright_idle_1",
+        "little_cat_upright_idle_2",
+        "little_cat_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_upright_run_0",
+        "little_cat_upright_run_1",
+        "little_cat_upright_run_2",
+        "little_cat_upright_run_3",
+        "little_cat_upright_run_4",
+        "little_cat_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_little_cat_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "little_cat_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "little_cat_upright_walk_0",
+        "little_cat_upright_walk_1",
+        "little_cat_upright_walk_2",
+        "little_cat_upright_walk_3",
+        "little_cat_upright_walk_4",
+        "little_cat_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_down_attack_0",
+        "mini_scorpion_down_attack_1",
+        "mini_scorpion_down_attack_2",
+        "mini_scorpion_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_down_hurt_0",
+        "mini_scorpion_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_down_idle_0",
+        "mini_scorpion_down_idle_1",
+        "mini_scorpion_down_idle_2",
+        "mini_scorpion_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_down_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_down_run_0",
+        "mini_scorpion_down_run_1",
+        "mini_scorpion_down_run_2",
+        "mini_scorpion_down_run_3",
+        "mini_scorpion_down_run_4",
+        "mini_scorpion_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_down_walk_0",
+        "mini_scorpion_down_walk_1",
+        "mini_scorpion_down_walk_2",
+        "mini_scorpion_down_walk_3",
+        "mini_scorpion_down_walk_4",
+        "mini_scorpion_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_downleft_attack_0",
+        "mini_scorpion_downleft_attack_1",
+        "mini_scorpion_downleft_attack_2",
+        "mini_scorpion_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_downleft_hurt_0",
+        "mini_scorpion_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_downleft_idle_0",
+        "mini_scorpion_downleft_idle_1",
+        "mini_scorpion_downleft_idle_2",
+        "mini_scorpion_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_downleft_run_0",
+        "mini_scorpion_downleft_run_1",
+        "mini_scorpion_downleft_run_2",
+        "mini_scorpion_downleft_run_3",
+        "mini_scorpion_downleft_run_4",
+        "mini_scorpion_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_downleft_walk_0",
+        "mini_scorpion_downleft_walk_1",
+        "mini_scorpion_downleft_walk_2",
+        "mini_scorpion_downleft_walk_3",
+        "mini_scorpion_downleft_walk_4",
+        "mini_scorpion_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_downright_attack_0",
+        "mini_scorpion_downright_attack_1",
+        "mini_scorpion_downright_attack_2",
+        "mini_scorpion_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_downright_hurt_0",
+        "mini_scorpion_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_downright_idle_0",
+        "mini_scorpion_downright_idle_1",
+        "mini_scorpion_downright_idle_2",
+        "mini_scorpion_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_downright_run_0",
+        "mini_scorpion_downright_run_1",
+        "mini_scorpion_downright_run_2",
+        "mini_scorpion_downright_run_3",
+        "mini_scorpion_downright_run_4",
+        "mini_scorpion_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_downright_walk_0",
+        "mini_scorpion_downright_walk_1",
+        "mini_scorpion_downright_walk_2",
+        "mini_scorpion_downright_walk_3",
+        "mini_scorpion_downright_walk_4",
+        "mini_scorpion_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_left_attack_0",
+        "mini_scorpion_left_attack_1",
+        "mini_scorpion_left_attack_2",
+        "mini_scorpion_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_left_hurt_0",
+        "mini_scorpion_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_left_idle_0",
+        "mini_scorpion_left_idle_1",
+        "mini_scorpion_left_idle_2",
+        "mini_scorpion_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_left_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_left_run_0",
+        "mini_scorpion_left_run_1",
+        "mini_scorpion_left_run_2",
+        "mini_scorpion_left_run_3",
+        "mini_scorpion_left_run_4",
+        "mini_scorpion_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_left_walk_0",
+        "mini_scorpion_left_walk_1",
+        "mini_scorpion_left_walk_2",
+        "mini_scorpion_left_walk_3",
+        "mini_scorpion_left_walk_4",
+        "mini_scorpion_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_right_attack_0",
+        "mini_scorpion_right_attack_1",
+        "mini_scorpion_right_attack_2",
+        "mini_scorpion_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_right_hurt_0",
+        "mini_scorpion_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_right_idle_0",
+        "mini_scorpion_right_idle_1",
+        "mini_scorpion_right_idle_2",
+        "mini_scorpion_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_right_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_right_run_0",
+        "mini_scorpion_right_run_1",
+        "mini_scorpion_right_run_2",
+        "mini_scorpion_right_run_3",
+        "mini_scorpion_right_run_4",
+        "mini_scorpion_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_right_walk_0",
+        "mini_scorpion_right_walk_1",
+        "mini_scorpion_right_walk_2",
+        "mini_scorpion_right_walk_3",
+        "mini_scorpion_right_walk_4",
+        "mini_scorpion_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_up_attack_0",
+        "mini_scorpion_up_attack_1",
+        "mini_scorpion_up_attack_2",
+        "mini_scorpion_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_up_hurt_0",
+        "mini_scorpion_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_up_idle_0",
+        "mini_scorpion_up_idle_1",
+        "mini_scorpion_up_idle_2",
+        "mini_scorpion_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_up_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_up_run_0",
+        "mini_scorpion_up_run_1",
+        "mini_scorpion_up_run_2",
+        "mini_scorpion_up_run_3",
+        "mini_scorpion_up_run_4",
+        "mini_scorpion_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_up_walk_0",
+        "mini_scorpion_up_walk_1",
+        "mini_scorpion_up_walk_2",
+        "mini_scorpion_up_walk_3",
+        "mini_scorpion_up_walk_4",
+        "mini_scorpion_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_upleft_attack_0",
+        "mini_scorpion_upleft_attack_1",
+        "mini_scorpion_upleft_attack_2",
+        "mini_scorpion_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_upleft_hurt_0",
+        "mini_scorpion_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_upleft_idle_0",
+        "mini_scorpion_upleft_idle_1",
+        "mini_scorpion_upleft_idle_2",
+        "mini_scorpion_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_upleft_run_0",
+        "mini_scorpion_upleft_run_1",
+        "mini_scorpion_upleft_run_2",
+        "mini_scorpion_upleft_run_3",
+        "mini_scorpion_upleft_run_4",
+        "mini_scorpion_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_upleft_walk_0",
+        "mini_scorpion_upleft_walk_1",
+        "mini_scorpion_upleft_walk_2",
+        "mini_scorpion_upleft_walk_3",
+        "mini_scorpion_upleft_walk_4",
+        "mini_scorpion_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_upright_attack_0",
+        "mini_scorpion_upright_attack_1",
+        "mini_scorpion_upright_attack_2",
+        "mini_scorpion_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "mini_scorpion_upright_hurt_0",
+        "mini_scorpion_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "mini_scorpion_upright_idle_0",
+        "mini_scorpion_upright_idle_1",
+        "mini_scorpion_upright_idle_2",
+        "mini_scorpion_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_upright_run_0",
+        "mini_scorpion_upright_run_1",
+        "mini_scorpion_upright_run_2",
+        "mini_scorpion_upright_run_3",
+        "mini_scorpion_upright_run_4",
+        "mini_scorpion_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_mini_scorpion_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "mini_scorpion_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "mini_scorpion_upright_walk_0",
+        "mini_scorpion_upright_walk_1",
+        "mini_scorpion_upright_walk_2",
+        "mini_scorpion_upright_walk_3",
+        "mini_scorpion_upright_walk_4",
+        "mini_scorpion_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_down_attack_0",
+        "venom_scorpion_down_attack_1",
+        "venom_scorpion_down_attack_2",
+        "venom_scorpion_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_down_hurt_0",
+        "venom_scorpion_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_down_idle_0",
+        "venom_scorpion_down_idle_1",
+        "venom_scorpion_down_idle_2",
+        "venom_scorpion_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_down_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_down_run_0",
+        "venom_scorpion_down_run_1",
+        "venom_scorpion_down_run_2",
+        "venom_scorpion_down_run_3",
+        "venom_scorpion_down_run_4",
+        "venom_scorpion_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_down_walk_0",
+        "venom_scorpion_down_walk_1",
+        "venom_scorpion_down_walk_2",
+        "venom_scorpion_down_walk_3",
+        "venom_scorpion_down_walk_4",
+        "venom_scorpion_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_downleft_attack_0",
+        "venom_scorpion_downleft_attack_1",
+        "venom_scorpion_downleft_attack_2",
+        "venom_scorpion_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_downleft_hurt_0",
+        "venom_scorpion_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_downleft_idle_0",
+        "venom_scorpion_downleft_idle_1",
+        "venom_scorpion_downleft_idle_2",
+        "venom_scorpion_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_downleft_run_0",
+        "venom_scorpion_downleft_run_1",
+        "venom_scorpion_downleft_run_2",
+        "venom_scorpion_downleft_run_3",
+        "venom_scorpion_downleft_run_4",
+        "venom_scorpion_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_downleft_walk_0",
+        "venom_scorpion_downleft_walk_1",
+        "venom_scorpion_downleft_walk_2",
+        "venom_scorpion_downleft_walk_3",
+        "venom_scorpion_downleft_walk_4",
+        "venom_scorpion_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_downright_attack_0",
+        "venom_scorpion_downright_attack_1",
+        "venom_scorpion_downright_attack_2",
+        "venom_scorpion_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_downright_hurt_0",
+        "venom_scorpion_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_downright_idle_0",
+        "venom_scorpion_downright_idle_1",
+        "venom_scorpion_downright_idle_2",
+        "venom_scorpion_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_downright_run_0",
+        "venom_scorpion_downright_run_1",
+        "venom_scorpion_downright_run_2",
+        "venom_scorpion_downright_run_3",
+        "venom_scorpion_downright_run_4",
+        "venom_scorpion_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_downright_walk_0",
+        "venom_scorpion_downright_walk_1",
+        "venom_scorpion_downright_walk_2",
+        "venom_scorpion_downright_walk_3",
+        "venom_scorpion_downright_walk_4",
+        "venom_scorpion_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_left_attack_0",
+        "venom_scorpion_left_attack_1",
+        "venom_scorpion_left_attack_2",
+        "venom_scorpion_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_left_hurt_0",
+        "venom_scorpion_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_left_idle_0",
+        "venom_scorpion_left_idle_1",
+        "venom_scorpion_left_idle_2",
+        "venom_scorpion_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_left_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_left_run_0",
+        "venom_scorpion_left_run_1",
+        "venom_scorpion_left_run_2",
+        "venom_scorpion_left_run_3",
+        "venom_scorpion_left_run_4",
+        "venom_scorpion_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_left_walk_0",
+        "venom_scorpion_left_walk_1",
+        "venom_scorpion_left_walk_2",
+        "venom_scorpion_left_walk_3",
+        "venom_scorpion_left_walk_4",
+        "venom_scorpion_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_right_attack_0",
+        "venom_scorpion_right_attack_1",
+        "venom_scorpion_right_attack_2",
+        "venom_scorpion_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_right_hurt_0",
+        "venom_scorpion_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_right_idle_0",
+        "venom_scorpion_right_idle_1",
+        "venom_scorpion_right_idle_2",
+        "venom_scorpion_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_right_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_right_run_0",
+        "venom_scorpion_right_run_1",
+        "venom_scorpion_right_run_2",
+        "venom_scorpion_right_run_3",
+        "venom_scorpion_right_run_4",
+        "venom_scorpion_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_right_walk_0",
+        "venom_scorpion_right_walk_1",
+        "venom_scorpion_right_walk_2",
+        "venom_scorpion_right_walk_3",
+        "venom_scorpion_right_walk_4",
+        "venom_scorpion_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_up_attack_0",
+        "venom_scorpion_up_attack_1",
+        "venom_scorpion_up_attack_2",
+        "venom_scorpion_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_up_hurt_0",
+        "venom_scorpion_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_up_idle_0",
+        "venom_scorpion_up_idle_1",
+        "venom_scorpion_up_idle_2",
+        "venom_scorpion_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_up_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_up_run_0",
+        "venom_scorpion_up_run_1",
+        "venom_scorpion_up_run_2",
+        "venom_scorpion_up_run_3",
+        "venom_scorpion_up_run_4",
+        "venom_scorpion_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_up_walk_0",
+        "venom_scorpion_up_walk_1",
+        "venom_scorpion_up_walk_2",
+        "venom_scorpion_up_walk_3",
+        "venom_scorpion_up_walk_4",
+        "venom_scorpion_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_upleft_attack_0",
+        "venom_scorpion_upleft_attack_1",
+        "venom_scorpion_upleft_attack_2",
+        "venom_scorpion_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_upleft_hurt_0",
+        "venom_scorpion_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_upleft_idle_0",
+        "venom_scorpion_upleft_idle_1",
+        "venom_scorpion_upleft_idle_2",
+        "venom_scorpion_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_upleft_run_0",
+        "venom_scorpion_upleft_run_1",
+        "venom_scorpion_upleft_run_2",
+        "venom_scorpion_upleft_run_3",
+        "venom_scorpion_upleft_run_4",
+        "venom_scorpion_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_upleft_walk_0",
+        "venom_scorpion_upleft_walk_1",
+        "venom_scorpion_upleft_walk_2",
+        "venom_scorpion_upleft_walk_3",
+        "venom_scorpion_upleft_walk_4",
+        "venom_scorpion_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_upright_attack_0",
+        "venom_scorpion_upright_attack_1",
+        "venom_scorpion_upright_attack_2",
+        "venom_scorpion_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "venom_scorpion_upright_hurt_0",
+        "venom_scorpion_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "venom_scorpion_upright_idle_0",
+        "venom_scorpion_upright_idle_1",
+        "venom_scorpion_upright_idle_2",
+        "venom_scorpion_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_upright_run_0",
+        "venom_scorpion_upright_run_1",
+        "venom_scorpion_upright_run_2",
+        "venom_scorpion_upright_run_3",
+        "venom_scorpion_upright_run_4",
+        "venom_scorpion_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_venom_scorpion_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "venom_scorpion_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "venom_scorpion_upright_walk_0",
+        "venom_scorpion_upright_walk_1",
+        "venom_scorpion_upright_walk_2",
+        "venom_scorpion_upright_walk_3",
+        "venom_scorpion_upright_walk_4",
+        "venom_scorpion_upright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_down_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_down_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_down_attack_0",
+        "whip_spider_down_attack_1",
+        "whip_spider_down_attack_2",
+        "whip_spider_down_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_down_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_down_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_down_hurt_0",
+        "whip_spider_down_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_down_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_down_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_down_idle_0",
+        "whip_spider_down_idle_1",
+        "whip_spider_down_idle_2",
+        "whip_spider_down_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_down_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_down_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_down_run_0",
+        "whip_spider_down_run_1",
+        "whip_spider_down_run_2",
+        "whip_spider_down_run_3",
+        "whip_spider_down_run_4",
+        "whip_spider_down_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_down_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_down_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_down_walk_0",
+        "whip_spider_down_walk_1",
+        "whip_spider_down_walk_2",
+        "whip_spider_down_walk_3",
+        "whip_spider_down_walk_4",
+        "whip_spider_down_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_downleft_attack_0",
+        "whip_spider_downleft_attack_1",
+        "whip_spider_downleft_attack_2",
+        "whip_spider_downleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_downleft_hurt_0",
+        "whip_spider_downleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_downleft_idle_0",
+        "whip_spider_downleft_idle_1",
+        "whip_spider_downleft_idle_2",
+        "whip_spider_downleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downleft_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_downleft_run_0",
+        "whip_spider_downleft_run_1",
+        "whip_spider_downleft_run_2",
+        "whip_spider_downleft_run_3",
+        "whip_spider_downleft_run_4",
+        "whip_spider_downleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_downleft_walk_0",
+        "whip_spider_downleft_walk_1",
+        "whip_spider_downleft_walk_2",
+        "whip_spider_downleft_walk_3",
+        "whip_spider_downleft_walk_4",
+        "whip_spider_downleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downright_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_downright_attack_0",
+        "whip_spider_downright_attack_1",
+        "whip_spider_downright_attack_2",
+        "whip_spider_downright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_downright_hurt_0",
+        "whip_spider_downright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downright_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_downright_idle_0",
+        "whip_spider_downright_idle_1",
+        "whip_spider_downright_idle_2",
+        "whip_spider_downright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downright_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_downright_run_0",
+        "whip_spider_downright_run_1",
+        "whip_spider_downright_run_2",
+        "whip_spider_downright_run_3",
+        "whip_spider_downright_run_4",
+        "whip_spider_downright_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_downright_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_downright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_downright_walk_0",
+        "whip_spider_downright_walk_1",
+        "whip_spider_downright_walk_2",
+        "whip_spider_downright_walk_3",
+        "whip_spider_downright_walk_4",
+        "whip_spider_downright_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_left_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_left_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_left_attack_0",
+        "whip_spider_left_attack_1",
+        "whip_spider_left_attack_2",
+        "whip_spider_left_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_left_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_left_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_left_hurt_0",
+        "whip_spider_left_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_left_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_left_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_left_idle_0",
+        "whip_spider_left_idle_1",
+        "whip_spider_left_idle_2",
+        "whip_spider_left_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_left_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_left_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_left_run_0",
+        "whip_spider_left_run_1",
+        "whip_spider_left_run_2",
+        "whip_spider_left_run_3",
+        "whip_spider_left_run_4",
+        "whip_spider_left_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_left_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_left_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_left_walk_0",
+        "whip_spider_left_walk_1",
+        "whip_spider_left_walk_2",
+        "whip_spider_left_walk_3",
+        "whip_spider_left_walk_4",
+        "whip_spider_left_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_right_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_right_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_right_attack_0",
+        "whip_spider_right_attack_1",
+        "whip_spider_right_attack_2",
+        "whip_spider_right_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_right_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_right_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_right_hurt_0",
+        "whip_spider_right_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_right_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_right_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_right_idle_0",
+        "whip_spider_right_idle_1",
+        "whip_spider_right_idle_2",
+        "whip_spider_right_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_right_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_right_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_right_run_0",
+        "whip_spider_right_run_1",
+        "whip_spider_right_run_2",
+        "whip_spider_right_run_3",
+        "whip_spider_right_run_4",
+        "whip_spider_right_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_right_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_right_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_right_walk_0",
+        "whip_spider_right_walk_1",
+        "whip_spider_right_walk_2",
+        "whip_spider_right_walk_3",
+        "whip_spider_right_walk_4",
+        "whip_spider_right_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_up_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_up_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_up_attack_0",
+        "whip_spider_up_attack_1",
+        "whip_spider_up_attack_2",
+        "whip_spider_up_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_up_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_up_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_up_hurt_0",
+        "whip_spider_up_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_up_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_up_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_up_idle_0",
+        "whip_spider_up_idle_1",
+        "whip_spider_up_idle_2",
+        "whip_spider_up_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_up_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_up_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_up_run_0",
+        "whip_spider_up_run_1",
+        "whip_spider_up_run_2",
+        "whip_spider_up_run_3",
+        "whip_spider_up_run_4",
+        "whip_spider_up_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_up_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_up_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_up_walk_0",
+        "whip_spider_up_walk_1",
+        "whip_spider_up_walk_2",
+        "whip_spider_up_walk_3",
+        "whip_spider_up_walk_4",
+        "whip_spider_up_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upleft_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upleft_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_upleft_attack_0",
+        "whip_spider_upleft_attack_1",
+        "whip_spider_upleft_attack_2",
+        "whip_spider_upleft_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upleft_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upleft_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_upleft_hurt_0",
+        "whip_spider_upleft_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upleft_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upleft_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_upleft_idle_0",
+        "whip_spider_upleft_idle_1",
+        "whip_spider_upleft_idle_2",
+        "whip_spider_upleft_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upleft_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upleft_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_upleft_run_0",
+        "whip_spider_upleft_run_1",
+        "whip_spider_upleft_run_2",
+        "whip_spider_upleft_run_3",
+        "whip_spider_upleft_run_4",
+        "whip_spider_upleft_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upleft_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upleft_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_upleft_walk_0",
+        "whip_spider_upleft_walk_1",
+        "whip_spider_upleft_walk_2",
+        "whip_spider_upleft_walk_3",
+        "whip_spider_upleft_walk_4",
+        "whip_spider_upleft_walk_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upright_attack_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upright_attack",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_upright_attack_0",
+        "whip_spider_upright_attack_1",
+        "whip_spider_upright_attack_2",
+        "whip_spider_upright_attack_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upright_hurt_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upright_hurt",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 2,
+      "rows": 1,
+      "frame_count": 2,
+      "frames": [
+        "whip_spider_upright_hurt_0",
+        "whip_spider_upright_hurt_1"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upright_idle_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upright_idle",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 4,
+      "rows": 1,
+      "frame_count": 4,
+      "frames": [
+        "whip_spider_upright_idle_0",
+        "whip_spider_upright_idle_1",
+        "whip_spider_upright_idle_2",
+        "whip_spider_upright_idle_3"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upright_run_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upright_run",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_upright_run_0",
+        "whip_spider_upright_run_1",
+        "whip_spider_upright_run_2",
+        "whip_spider_upright_run_3",
+        "whip_spider_upright_run_4",
+        "whip_spider_upright_run_5"
+      ]
+    },
+    {
+      "file": "characters_whip_spider_upright_walk_64x64.png",
+      "category": "characters",
+      "animation": "whip_spider_upright_walk",
+      "tile_size": {
+        "width": 64,
+        "height": 64
+      },
+      "columns": 6,
+      "rows": 1,
+      "frame_count": 6,
+      "frames": [
+        "whip_spider_upright_walk_0",
+        "whip_spider_upright_walk_1",
+        "whip_spider_upright_walk_2",
+        "whip_spider_upright_walk_3",
+        "whip_spider_upright_walk_4",
+        "whip_spider_upright_walk_5"
+      ]
+    }
+  ]
+}
