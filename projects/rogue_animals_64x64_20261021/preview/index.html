@@ -122,8 +122,15 @@
       background: var(--panel);
       padding: 0 3px;
     }
-    .sheet-wrap { margin-top: 18px; overflow: auto; border: 1px solid var(--line); background: #c9c2b6; }
-    .sheet-wrap img { image-rendering: pixelated; display: block; }
+    .sheet-wrap {
+      margin-top: 18px;
+      width: fit-content;
+      max-width: 100%;
+      overflow: auto;
+      border: 1px solid var(--line);
+      background: var(--floor);
+    }
+    .sheet-wrap img { image-rendering: pixelated; display: block; height: auto; }
     .swatches { display: flex; gap: 4px; margin-top: 8px; }
     .swatches b { width: 14px; height: 14px; display: inline-block; border: 1px solid var(--ink); font-weight: normal; }
     .frame-readout { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 13px; }
@@ -218,6 +225,7 @@
       $("spec").textContent = `${anim.label} · ${anim.frames} 帧 · ${anim.fps} fps · ${anim.loop ? "循环" : "播放一次"} · 朝向 ${DATA.directions[state.dir].label}`;
       $("readout").textContent = `帧 ${state.frame + 1}/${anim.frames}`;
       $("sheet").src = sheetUrl();
+      $("sheet").style.width = `${anim.frames * 96}px`;
       $("dl-sheet").href = sheetUrl();
       $("dl-sheet").download = `${ch.id}_${state.action}.png`;
       $("dl-char").href = `../exports/characters/${ch.id}.zip`;
