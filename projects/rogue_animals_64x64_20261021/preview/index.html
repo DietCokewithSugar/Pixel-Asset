@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>肉鸽动物八方向精灵</title>
+  <style>
+    :root {
+      --ink: #1a1c2c;
+      --paper: #f4efe6;
+      --panel: #fffdf8;
+      --line: #d9d0c3;
+      --floor: #d5dcc8;
+      --accent: #b13e53;
+      --muted: #566c86;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "WenQuanYi Micro Hei", "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
+      color: var(--ink);
+      background: var(--paper);
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: flex-end;
+      padding: 20px 28px 12px;
+      border-bottom: 1px solid var(--line);
+    }
+    h1 { margin: 0; font-size: 22px; font-weight: 700; }
+    header p { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+    main {
+      display: grid;
+      grid-template-columns: 280px minmax(0, 1fr);
+      min-height: calc(100vh - 78px);
+    }
+    aside {
+      border-right: 1px solid var(--line);
+      padding: 12px;
+      background: var(--panel);
+    }
+    .char-btn, button, .linkish {
+      font: inherit;
+      color: inherit;
+    }
+    .char-btn {
+      width: 100%;
+      text-align: left;
+      border: 1px solid transparent;
+      background: transparent;
+      padding: 8px 10px;
+      cursor: pointer;
+      display: grid;
+      grid-template-columns: 52px 1fr;
+      gap: 8px;
+      align-items: center;
+    }
+    .char-btn.active { border-color: var(--ink); background: var(--paper); }
+    .thumb {
+      width: 52px;
+      height: 52px;
+      background-color: var(--floor);
+      background-repeat: no-repeat;
+      image-rendering: pixelated;
+    }
+    .char-btn strong { display: block; font-size: 14px; }
+    .char-btn span { color: var(--muted); font-size: 12px; }
+    section { padding: 18px 22px 32px; }
+    .stage-wrap {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 22px;
+      align-items: start;
+    }
+    .stage {
+      width: 256px;
+      height: 256px;
+      background: var(--floor);
+      border: 1px solid var(--ink);
+      image-rendering: pixelated;
+      background-repeat: no-repeat;
+    }
+    .meta h2 { margin: 0 0 4px; font-size: 20px; }
+    .meta p { margin: 0 0 10px; color: var(--muted); }
+    .actions, .transport, .downloads { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+    button, .downloads a {
+      border: 1px solid var(--ink);
+      background: var(--panel);
+      padding: 6px 10px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    button.active { background: var(--ink); color: var(--paper); }
+    .pad {
+      margin-top: 8px;
+      display: grid;
+      grid-template-columns: repeat(3, 84px);
+      grid-template-rows: repeat(3, 84px);
+      gap: 6px;
+      width: max-content;
+    }
+    .pad .cell {
+      width: 84px;
+      height: 84px;
+      padding: 0;
+      background-color: var(--floor);
+      border: 1px solid var(--line);
+      image-rendering: pixelated;
+      background-repeat: no-repeat;
+      cursor: pointer;
+      position: relative;
+    }
+    .pad .cell.active { border-color: var(--accent); }
+    .pad .cell i {
+      position: absolute;
+      left: 4px;
+      bottom: 2px;
+      font-style: normal;
+      font-size: 11px;
+      background: var(--panel);
+      padding: 0 3px;
+    }
+    .sheet-wrap {
+      margin-top: 18px;
+      width: fit-content;
+      max-width: 100%;
+      overflow: auto;
+      border: 1px solid var(--line);
+      background: var(--floor);
+    }
+    .sheet-wrap img { image-rendering: pixelated; display: block; height: auto; }
+    .swatches { display: flex; gap: 4px; margin-top: 8px; }
+    .swatches b { width: 14px; height: 14px; display: inline-block; border: 1px solid var(--ink); font-weight: normal; }
+    .frame-readout { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 13px; }
+    @media (max-width: 860px) {
+      main { grid-template-columns: 1fr; }
+      aside { border-right: 0; border-bottom: 1px solid var(--line); }
+      .stage-wrap { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>肉鸽动物八方向精灵</h1>
+      <p>原地静息、移动、快速移动、攻击、受伤。每张图集 8 行朝向，从左到右是帧。</p>
+    </div>
+    <div class="frame-readout" id="readout"></div>
+  </header>
+  <main>
+    <aside id="roster"></aside>
+    <section>
+      <div class="stage-wrap">
+        <div>
+          <div id="stage" class="stage"></div>
+          <div class="transport">
+            <button id="play" type="button">暂停</button>
+            <button id="step" type="button">下一帧</button>
+            <button id="scale" type="button">放大 4x</button>
+          </div>
+        </div>
+        <div class="meta">
+          <h2 id="title"></h2>
+          <p id="trait"></p>
+          <div class="actions" id="actions"></div>
+          <div class="pad" id="pad"></div>
+          <p class="frame-readout" id="spec"></p>
+          <div class="downloads">
+            <a id="dl-sheet" href="#">下载当前图集</a>
+            <a id="dl-char" href="#">下载这个角色</a>
+            <a id="dl-all" href="../exports/rogue_animals_sprites.zip" download>下载全部角色</a>
+          </div>
+          <div class="swatches" id="swatches"></div>
+        </div>
+      </div>
+      <div class="sheet-wrap">
+        <img id="sheet" alt="当前动作的八方向精灵图" />
+      </div>
+    </section>
+  </main>
+  <script>
+    const DATA = {"project": "rogue_animals", "canvas": {"width": 64, "height": 64}, "palette": "Cute Rogue 32", "light_direction": "top-left", "style": "cute outlined cel-shaded pixel", "directions": [{"id": "down", "label": "下", "row": 0}, {"id": "downright", "label": "右下", "row": 1}, {"id": "right", "label": "右", "row": 2}, {"id": "upright", "label": "右上", "row": 3}, {"id": "up", "label": "上", "row": 4}, {"id": "upleft", "label": "左上", "row": 5}, {"id": "left", "label": "左", "row": 6}, {"id": "downleft", "label": "左下", "row": 7}], "animations": {"idle": {"frames": 4, "fps": 6, "loop": true, "label": "原地静息", "columns": 4}, "walk": {"frames": 6, "fps": 8, "loop": true, "label": "移动", "columns": 6}, "run": {"frames": 6, "fps": 12, "loop": true, "label": "快速移动", "columns": 6}, "attack": {"frames": 4, "fps": 10, "loop": false, "label": "攻击", "columns": 4}, "hurt": {"frames": 2, "fps": 8, "loop": false, "label": "受伤", "columns": 2}}, "layout": "Each game sheet is one action. Rows are directions. Columns are frames.", "characters": [{"id": "mini_scorpion", "name": "迷拟蝎", "animal": "伪拟蝎", "color": "橙色", "trait": "圆滚滚的腹部，短小的钳子"}, {"id": "venom_scorpion", "name": "注毒拟蝎", "animal": "拟蝎", "color": "黄色", "trait": "短小但粗壮的钳子"}, {"id": "whip_spider", "name": "霸王鞭蛛", "animal": "鞭蛛", "color": "深红色", "trait": "又长又粗的钳子，第一对足是长鞭"}, {"id": "egg_raptor", "name": "手盗龙宝宝", "animal": "手盗龙", "color": "浅蓝色", "trait": "四肢短小，头顶有碎裂的蛋壳"}, {"id": "feather_raptor", "name": "阔羽盗龙", "animal": "阔羽盗龙", "color": "浅紫色", "trait": "短小的头冠，前肢长出长羽毛"}, {"id": "cassowary", "name": "暴走鹤鸵", "animal": "鹤鸵", "color": "浅蓝头冠，黑蓝身体", "trait": "突出的头冠与强壮的腿"}, {"id": "little_cat", "name": "小古猫", "animal": "细齿兽", "color": "绿色", "trait": "细长优雅"}, {"id": "false_cat", "name": "假虎猫", "animal": "假猫", "color": "浅绿色", "trait": "粗壮的身体"}, {"id": "lion_boss", "name": "狮老大", "animal": "狮子", "color": "深绿鬃毛，橙色身体", "trait": "硕大的头与鬃毛"}]};
+    const state = {
+      char: 0,
+      action: "idle",
+      dir: 0,
+      frame: 0,
+      scale: 4,
+      playing: true,
+    };
+    const $ = (id) => document.getElementById(id);
+    const actionOf = (id) => DATA.animations[id];
+    const charOf = () => DATA.characters[state.char];
+
+    function sheetUrl() {
+      return `../sheets/game/${charOf().id}_${state.action}.png`;
+    }
+
+    function paint(el, dir, frame, scale) {
+      const anim = actionOf(state.action);
+      el.style.backgroundImage = `url("${sheetUrl()}")`;
+      el.style.backgroundSize = `${anim.frames * scale * 64}px ${8 * scale * 64}px`;
+      el.style.backgroundPosition = `${-frame * scale * 64}px ${-dir * scale * 64}px`;
+    }
+
+    function sync() {
+      const anim = actionOf(state.action);
+      const ch = charOf();
+      if (state.frame >= anim.frames) state.frame = 0;
+      paint($("stage"), state.dir, state.frame, state.scale);
+      $("stage").style.width = `${state.scale * 64}px`;
+      $("stage").style.height = `${state.scale * 64}px`;
+      document.querySelectorAll(".cell").forEach((cell) => {
+        const dir = Number(cell.dataset.dir);
+        paint(cell, dir, state.frame, 1);
+        cell.style.backgroundSize = `${anim.frames * 64}px ${8 * 64}px`;
+        cell.classList.toggle("active", dir === state.dir);
+      });
+      document.querySelectorAll(".char-btn").forEach((btn, i) => btn.classList.toggle("active", i === state.char));
+      document.querySelectorAll("#actions button").forEach((btn) => btn.classList.toggle("active", btn.dataset.action === state.action));
+      $("title").textContent = `${ch.name} · ${ch.animal}`;
+      $("trait").textContent = `${ch.color}。${ch.trait}`;
+      $("spec").textContent = `${anim.label} · ${anim.frames} 帧 · ${anim.fps} fps · ${anim.loop ? "循环" : "播放一次"} · 朝向 ${DATA.directions[state.dir].label}`;
+      $("readout").textContent = `帧 ${state.frame + 1}/${anim.frames}`;
+      $("sheet").src = sheetUrl();
+      $("sheet").style.width = `${anim.frames * 96}px`;
+      $("dl-sheet").href = sheetUrl();
+      $("dl-sheet").download = `${ch.id}_${state.action}.png`;
+      $("dl-char").href = `../exports/characters/${ch.id}.zip`;
+      $("dl-char").download = `${ch.id}.zip`;
+      $("play").textContent = state.playing ? "暂停" : "播放";
+      $("scale").textContent = state.scale === 4 ? "放大 6x" : "回到 4x";
+    }
+
+    function boot() {
+      const roster = $("roster");
+      DATA.characters.forEach((ch, i) => {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "char-btn";
+        btn.innerHTML = `<div class="thumb"></div><div><strong>${ch.name}</strong><span>${ch.animal}</span></div>`;
+        btn.addEventListener("click", () => { state.char = i; state.frame = 0; sync(); });
+        roster.appendChild(btn);
+        const thumb = btn.querySelector(".thumb");
+        thumb.style.backgroundImage = `url("../sheets/game/${ch.id}_idle.png")`;
+        thumb.style.backgroundSize = `${4 * 64}px ${8 * 64}px`;
+        thumb.style.backgroundPosition = "0 0";
+      });
+      const actions = $("actions");
+      Object.entries(DATA.animations).forEach(([id, anim]) => {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.dataset.action = id;
+        btn.textContent = anim.label;
+        btn.addEventListener("click", () => { state.action = id; state.frame = 0; state.playing = true; sync(); });
+        actions.appendChild(btn);
+      });
+      const pad = $("pad");
+      const slots = [
+        { dir: 5, grid: "1 / 1" },
+        { dir: 4, grid: "1 / 2" },
+        { dir: 3, grid: "1 / 3" },
+        { dir: 6, grid: "2 / 1" },
+        { dir: 2, grid: "2 / 3" },
+        { dir: 7, grid: "3 / 1" },
+        { dir: 0, grid: "3 / 2" },
+        { dir: 1, grid: "3 / 3" },
+      ];
+      slots.forEach((slot) => {
+        const cell = document.createElement("button");
+        cell.type = "button";
+        cell.className = "cell";
+        cell.dataset.dir = String(slot.dir);
+        cell.style.gridColumn = slot.grid.split(" / ")[1];
+        cell.style.gridRow = slot.grid.split(" / ")[0];
+        cell.innerHTML = `<i>${DATA.directions[slot.dir].label}</i>`;
+        cell.addEventListener("click", () => { state.dir = slot.dir; sync(); });
+        pad.appendChild(cell);
+      });
+      const colors = ["#EF7D57", "#FFCD75", "#B13E53", "#41A6F6", "#C4A1E8", "#1A2744", "#38B764", "#8FD96A", "#146B3A"];
+      colors.forEach((color) => {
+        const sw = document.createElement("b");
+        sw.style.background = color;
+        $("swatches").appendChild(sw);
+      });
+      $("play").addEventListener("click", () => { state.playing = !state.playing; sync(); });
+      $("step").addEventListener("click", () => {
+        state.playing = false;
+        const anim = actionOf(state.action);
+        state.frame = (state.frame + 1) % anim.frames;
+        sync();
+      });
+      $("scale").addEventListener("click", () => { state.scale = state.scale === 4 ? 6 : 4; sync(); });
+      document.addEventListener("keydown", (event) => {
+        const map = { ArrowDown: 0, ArrowRight: 2, ArrowUp: 4, ArrowLeft: 6 };
+        if (event.key in map) { state.dir = map[event.key]; sync(); }
+        if (event.key === " ") { event.preventDefault(); state.playing = !state.playing; sync(); }
+      });
+      sync();
+      let last = performance.now();
+      function tick(now) {
+        const anim = actionOf(state.action);
+        const step = 1000 / anim.fps;
+        if (state.playing && now - last >= step) {
+          last = now;
+          if (state.frame + 1 >= anim.frames && !anim.loop) {
+            state.playing = false;
+          } else {
+            state.frame = (state.frame + 1) % anim.frames;
+          }
+          sync();
+        }
+        if (!state.playing) last = now;
+        requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    }
+    boot();
+  </script>
+</body>
+</html>

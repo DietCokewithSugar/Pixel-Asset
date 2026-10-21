@@ -1,0 +1,155 @@
+{
+  "project": "rogue_animals",
+  "canvas": {
+    "width": 64,
+    "height": 64
+  },
+  "palette": "Cute Rogue 32",
+  "light_direction": "top-left",
+  "style": "cute outlined cel-shaded pixel",
+  "directions": [
+    {
+      "id": "down",
+      "label": "下",
+      "row": 0
+    },
+    {
+      "id": "downright",
+      "label": "右下",
+      "row": 1
+    },
+    {
+      "id": "right",
+      "label": "右",
+      "row": 2
+    },
+    {
+      "id": "upright",
+      "label": "右上",
+      "row": 3
+    },
+    {
+      "id": "up",
+      "label": "上",
+      "row": 4
+    },
+    {
+      "id": "upleft",
+      "label": "左上",
+      "row": 5
+    },
+    {
+      "id": "left",
+      "label": "左",
+      "row": 6
+    },
+    {
+      "id": "downleft",
+      "label": "左下",
+      "row": 7
+    }
+  ],
+  "animations": {
+    "idle": {
+      "frames": 4,
+      "fps": 6,
+      "loop": true,
+      "label": "原地静息",
+      "columns": 4
+    },
+    "walk": {
+      "frames": 6,
+      "fps": 8,
+      "loop": true,
+      "label": "移动",
+      "columns": 6
+    },
+    "run": {
+      "frames": 6,
+      "fps": 12,
+      "loop": true,
+      "label": "快速移动",
+      "columns": 6
+    },
+    "attack": {
+      "frames": 4,
+      "fps": 10,
+      "loop": false,
+      "label": "攻击",
+      "columns": 4
+    },
+    "hurt": {
+      "frames": 2,
+      "fps": 8,
+      "loop": false,
+      "label": "受伤",
+      "columns": 2
+    }
+  },
+  "layout": "Each game sheet is one action. Rows are directions. Columns are frames.",
+  "characters": [
+    {
+      "id": "mini_scorpion",
+      "name": "迷拟蝎",
+      "animal": "伪拟蝎",
+      "color": "橙色",
+      "trait": "圆滚滚的腹部，短小的钳子"
+    },
+    {
+      "id": "venom_scorpion",
+      "name": "注毒拟蝎",
+      "animal": "拟蝎",
+      "color": "黄色",
+      "trait": "短小但粗壮的钳子"
+    },
+    {
+      "id": "whip_spider",
+      "name": "霸王鞭蛛",
+      "animal": "鞭蛛",
+      "color": "深红色",
+      "trait": "又长又粗的钳子，第一对足是长鞭"
+    },
+    {
+      "id": "egg_raptor",
+      "name": "手盗龙宝宝",
+      "animal": "手盗龙",
+      "color": "浅蓝色",
+      "trait": "四肢短小，头顶有碎裂的蛋壳"
+    },
+    {
+      "id": "feather_raptor",
+      "name": "阔羽盗龙",
+      "animal": "阔羽盗龙",
+      "color": "浅紫色",
+      "trait": "短小的头冠，前肢长出长羽毛"
+    },
+    {
+      "id": "cassowary",
+      "name": "暴走鹤鸵",
+      "animal": "鹤鸵",
+      "color": "浅蓝头冠，黑蓝身体",
+      "trait": "突出的头冠与强壮的腿"
+    },
+    {
+      "id": "little_cat",
+      "name": "小古猫",
+      "animal": "细齿兽",
+      "color": "绿色",
+      "trait": "细长优雅"
+    },
+    {
+      "id": "false_cat",
+      "name": "假虎猫",
+      "animal": "假猫",
+      "color": "浅绿色",
+      "trait": "粗壮的身体"
+    },
+    {
+      "id": "lion_boss",
+      "name": "狮老大",
+      "animal": "狮子",
+      "color": "深绿鬃毛，橙色身体",
+      "trait": "硕大的头与鬃毛"
+    }
+  ]
+}
